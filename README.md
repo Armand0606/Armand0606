@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Armand
 
-<!--
-**Armand0606/Armand0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Building practical solutions for real-world problems  
+⚡ Focus: Windows, WSL, automation, and system troubleshooting  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 Current Work
+
+- 🔧 WSL Recovery Playbook (Windows 11)
+- ⚙️ Exploring automation + system-level fixes
+- 🚀 Building foundations for NovaXFury
+
+---
+
+## 🛠 Projects
+
+### 🔹 WSL Recovery Playbook
+Fix common WSL issues like:
+- FileNotFound errors
+- ext4.vhdx access denied (E_ACCESSDENIED)
+- broken distro installs
+
+👉 [View Project](https://github.com/Armand0606/wsl-recovery-playbook)
+
+---
+
+## 🧠 What I'm learning
+
+- PowerShell scripting
+- System recovery workflows
+- Clean project structure and Git workflow
+- Building reusable tools from real problems
+
+---
+
+## 🎯 Direction
+
+Building toward:
+
+👉 **NovaXFury**
+- lightweight workflow assistant
+- system + dev automation
+- practical tools over complexity
+
+---
+
+## ⚡ Philosophy
+
+> Solve real problems → Turn them into tools → Share them
+
+---
+
+## 📬 Connect
+
+- GitHub: https://github.com/Armand0606
