@@ -17,6 +17,8 @@
 - ⚙️ Exploring automation + system-level fixes
 - 🚀 Building foundations for NovaXFury
 
+🟩 Code is not the destination — it’s the bridge between imagination and reality.
+
 ---
 
 ## 🛠 Projects
@@ -38,6 +40,8 @@ Fix common WSL issues like:
 - Clean project structure and Git workflow
 - Building reusable tools from real problems
 
+🟩 The best systems don’t replace the mind — they help it arrive.
+
 ---
 
 ## 🎯 Direction
@@ -54,6 +58,8 @@ Building toward:
 ## ⚡ Philosophy
 
 > Solve real problems → Turn them into tools → Share them
+
+🟩 Some tools give answers. The right one helps you become what you were trying to build all along.
 
 ---
 
