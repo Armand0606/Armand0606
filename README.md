@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Armand
 🟩 When my thoughts speed up, I slow down my actions — that’s where control returns
+
+🟩 The goal is not just solving problems — it’s creating a system where understanding happens naturally between user and tool
+
+🟩 Clarity happens when interaction feels natural, not forced
+
 💻 Building practical solutions for real-world problems  
+
 ⚡ Focus: Windows, WSL, automation, and system troubleshooting  
 
 ---
