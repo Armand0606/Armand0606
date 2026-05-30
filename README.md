@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Armand
-
+🟩 When my thoughts speed up, I slow down my actions — that’s where control returns
 💻 Building practical solutions for real-world problems  
 ⚡ Focus: Windows, WSL, automation, and system troubleshooting  
 
